@@ -1,0 +1,26 @@
+#header-nav{
+	background-color: #808080;
+	border-radius: 0px;
+	border: 0px;
+	height: 75px;
+}
+.navbar-brand{
+	padding-top: 20px;
+}
+.navbar-brand h1 { 
+  color: #1B9BD3;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#nav-list{
+	margin-top: 10px;
+	text-align: center;
+}
+hr{
+	
+	border: 1px solid #000000;
+
+}
