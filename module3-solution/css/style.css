@@ -18,11 +18,9 @@
 #nav-list{
 	margin-top: 10px;
 	text-align: center;
-	background-color: #79CAED;
+    background-color: #F9EC02;
 }
-hr{
-  border: 1px solid #000000;
-}
+
 h2{
   color: red;	
 }
