@@ -20,7 +20,17 @@
 	text-align: center;
 }
 hr{
-	
-	border: 1px solid #000000;
+  border: 1px solid #000000;
+}
+h2{
+  color: red;	
+}
 
+#main-content{
+	height: 1000px;
+	background-color: #79CAED;
+}
+#menu-title{
+	font-size: 2em;
+	text-align: center;
 }
